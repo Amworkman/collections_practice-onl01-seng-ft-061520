@@ -28,3 +28,7 @@ def kesha_maker(str_arr)
     name[2] = "$"
    end
 end
+
+def find_a(str_arr)
+  str_arr.find { |string| string.start_with("a")
+end
