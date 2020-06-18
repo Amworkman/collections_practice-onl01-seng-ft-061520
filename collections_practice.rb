@@ -32,3 +32,7 @@ end
 def find_a(str_arr)
   str_arr.find_all { |string| string.start_with?("a")}
 end
+
+def sum_array(int_arr)
+  
+end
