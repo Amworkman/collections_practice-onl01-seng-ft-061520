@@ -30,5 +30,5 @@ def kesha_maker(str_arr)
 end
 
 def find_a(str_arr)
-  str_arr.find.each { |string| string.start_with?("a")}
+  str_arr.find_all { |string| string.start_with?("a")}
 end
