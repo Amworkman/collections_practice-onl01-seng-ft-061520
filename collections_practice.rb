@@ -39,6 +39,6 @@ end
 
 def add_s
   add_s.esch_with_index.collect do |string, index|
-    if index == 2 
+    if index == 1  
   end
 end
