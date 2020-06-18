@@ -36,3 +36,5 @@ end
 def sum_array(int_arr)
   int_arr.inject{|a,b| a + b}
 end
+
+def 
