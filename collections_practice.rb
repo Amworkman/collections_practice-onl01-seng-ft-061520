@@ -37,4 +37,8 @@ def sum_array(int_arr)
   int_arr.inject{|a,b| a + b}
 end
 
-def 
+def add_s
+  add_s.esch_with_index.collect do |string, index|
+    
+  end
+end
